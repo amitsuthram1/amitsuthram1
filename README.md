@@ -21,9 +21,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 #
 
-### 📊 Stats
+## :fire: GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&theme=gruvbox)
+<div align="center">
+   
+![Stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&&count_private=true&theme=tokyonight)
 
 <!--
 **amitsuthram1/amitsuthram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
