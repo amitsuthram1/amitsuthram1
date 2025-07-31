@@ -4,7 +4,7 @@
 
 **`Software Engineer`**
 
-Hi there! I'm Amit, an aspiring Software Engineer passionate about building clean, efficient, and user-friendly software. I'm currently studying Computer and Software Systems Engineering and love solving real-world problems through code.
+Aspiring Software Engineer passionate about building clean, efficient, and user-friendly software. Currently studying Computer and Software Systems Engineering and love to solve real-world problems through code.
 
 
 <div align="center">
