@@ -37,6 +37,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 ###
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitsuthram1&" alt="asanas" /></p>
+
 <!--
 **amitsuthram1/amitsuthram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
