@@ -1,4 +1,4 @@
-# 🏄‍♂️ Amit
+# 모 Amit
 
 **`Software Engineer`**
    
