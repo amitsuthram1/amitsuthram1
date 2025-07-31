@@ -2,11 +2,8 @@
 
 **`Software Engineer`**
 
-<div align="center"> 
-  <p>Visitor count</p>
-  ![](https://komarev.com/ghpvc/?username=amitsuthram1)
-</div>
-   
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsuthram1&label=Profile%20views&color=0e75b6&style=flat" alt="Amit" /> </p>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
