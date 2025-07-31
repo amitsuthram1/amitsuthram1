@@ -23,7 +23,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 ### 📊 Stats
    
-!(https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&count_private=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&count_private=true&theme=gruvbox)
 
 
 <!--
