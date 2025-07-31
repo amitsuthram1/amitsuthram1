@@ -1,4 +1,4 @@
-# 👨‍💻 Amit 
+# 💻 Amit 
 
 **`Software Engineer`**
    
