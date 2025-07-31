@@ -1,4 +1,4 @@
-<h1 align="center">amitsuthram1</h1>
+<h1 align="center">Amit</h1>
 
 **`Software Engineer`**
 
