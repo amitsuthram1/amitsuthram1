@@ -1,6 +1,10 @@
 <h1 align="center">Amit</h1>
 
 **`Software Engineer`**
+
+Hi there! I'm Amit, an aspiring Software Engineer passionate about building clean, efficient, and user-friendly software. I'm currently studying Computer and Software Systems Engineering and love solving real-world problems through code.
+
+
 <div align="center">
      <a href="https://linkedin.com/in/amitsuthram1/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=amitsuthram1&style=for-the-badge&color=red" alt="Views"/>
