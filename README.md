@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Amit!;" />
 </h1>
 
-**`Software Engineer`**
-
 Aspiring Software Engineer passionate about building clean, efficient, and user-friendly software. Currently studying Computer and Software Systems Engineering and love to solve real-world problems through code.
 
 
