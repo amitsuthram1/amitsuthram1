@@ -1,5 +1,9 @@
 <h1 align="center">Amit</h1>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+</h1>
+
 **`Software Engineer`**
 
 Hi there! I'm Amit, an aspiring Software Engineer passionate about building clean, efficient, and user-friendly software. I'm currently studying Computer and Software Systems Engineering and love solving real-world problems through code.
