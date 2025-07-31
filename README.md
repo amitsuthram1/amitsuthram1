@@ -28,13 +28,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 ## ⚡️ Stats
 
-<br>
-
-<div align=center>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=amitsuthram1&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amit's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitsuthram1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-<hr>
 
 
 <!--
