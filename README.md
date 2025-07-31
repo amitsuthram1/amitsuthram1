@@ -25,7 +25,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <div align="center">
    
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&showicons=true&count_private=true&theme=gruvbox)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&count_private=true&theme=gruvbox&title=Amit's%20GitHub%20Stats)
+
 
 <!--
 **amitsuthram1/amitsuthram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
