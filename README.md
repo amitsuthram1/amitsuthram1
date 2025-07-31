@@ -3,9 +3,7 @@
 **`Software Engineer`**
 <div align="center">
      <a href="https://linkedin.com/in/amitsuthram1/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitsuthram1&label=Profile%20views&color=0e75b6&style=flat"   alt="Amit" /> </p>
+    <img src="https://komarev.com/ghpvc/?username=amitsuthram1&style=for-the-badge&color=red" alt="Views"/>
 </div>
 
 ### 🧰 Languages and Tools
