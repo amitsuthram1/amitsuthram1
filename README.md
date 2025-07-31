@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8dde39de-7d7d-447b-8738-f38567a4bd53" /># 🏄‍♂️ Amit 
+# 🏄‍♂️ Amit 
 
 **`Software Engineer`**
 
