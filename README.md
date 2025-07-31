@@ -4,7 +4,7 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{amitsuthram1}/count.svg" alt="Visitor's Count" />
+  ![](https://komarev.com/ghpvc/?username=amitsuthram1)
 </div>
    
 ### 🧰 Languages and Tools
