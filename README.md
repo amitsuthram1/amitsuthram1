@@ -22,8 +22,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 #
 
 ### 📊 Stats
-
-<div align="center">
    
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&count_private=true&theme=gruvbox&title=Amit's%20GitHub%20Stats)
 
