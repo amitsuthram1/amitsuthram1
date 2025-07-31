@@ -31,6 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
   <img src="https://github-readme-stats.vercel.app/api?username=amitsuthram1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
+![snake gif](https://github.com/amitsuthram1/amitsuthram1/blob/output/github-snake-dark.svg)
 <!--
 **amitsuthram1/amitsuthram1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
