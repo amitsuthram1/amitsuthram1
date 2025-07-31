@@ -31,7 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=amitsuthram1&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amit's GitHub Stats" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=amitsuthram1&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Amit's GitHub Stats" />
 </div>
 
 <hr>
