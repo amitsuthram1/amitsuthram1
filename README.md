@@ -33,4 +33,12 @@ Aspiring Software Engineer passionate about building clean, efficient, and user-
 
 ## ⚡️ Stats
 
+<div align="center">
 
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&count_private=true&theme=gruvbox)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthram1&hide=css,php&langs_count=6&layout=compact&theme=gruvbox)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amitsuthram1&theme=gruvbox)](https://git.io/streak-stats)
+
+</div>
