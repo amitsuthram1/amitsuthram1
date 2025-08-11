@@ -20,8 +20,6 @@ Aspiring Software Engineer passionate about building clean, efficient, and user-
 ### 🧰 Languages and Tools
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" height="48rem"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="48rem"/>&nbsp;
-    <img src="https://img.icons8.com/fluency/48/c-programming.png" alt="C" height="48rem"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="48rem"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="48rem"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/>&nbsp;
@@ -34,9 +32,5 @@ Aspiring Software Engineer passionate about building clean, efficient, and user-
 
 
 ## ⚡️ Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitsuthram1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
 
