@@ -39,15 +39,3 @@ My current research applies machine learning to human movement classification us
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="48rem"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="48rem"/>&nbsp;
 </div>
-
-## ⚡️ Stats
-
-<div align="center">
-
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitsuthram1&show_icons=true&count_private=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsuthram1&hide=css,php&langs_count=6&layout=compact&theme=gruvbox)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amitsuthram1&theme=gruvbox)](https://git.io/streak-stats)
-
-</div>
